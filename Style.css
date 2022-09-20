@@ -1,0 +1,9 @@
+.Body_Background { 
+    background-color: #80CBC4;
+    text-align: center;
+  }
+  #myCanvas {
+    border-color: black;
+    border-style: double;
+    background-color: white;
+  }
